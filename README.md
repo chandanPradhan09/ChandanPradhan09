@@ -13,7 +13,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Chandan+Pradhan;%F0%9F%9A%80+Building+Scalable+Systems+%40+iServeU;%F0%9F%92%A1+2M%2B+Monthly+Transactions+%7C+99.98%25+Uptime;%F0%9F%8E%AF+Java+%7C+Spring+Boot+%7C+React+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Chandan+Pradhan;%F0%9F%9A%80+Building+Scalable+Systems+%40+iServeU;%F0%9F%92%A1+2M%2B+Monthly+Transactions+%7C+99.98%25+Uptime;%F0%9F%8E%AF+Java+%7C+Spring+Boot+%7C+React+%7C+Next.js" alt="Typing SVG" height="80" width="100%" />
   </a>
 
 </div>
